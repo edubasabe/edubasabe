@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Welcome to my Github
+
+🔭 I’m currently working on Sky Airline ✈️
+
+I spend my spare time learning about:
+- Next.js
+- Strapi CMS
+- Apollo
+- GraphQL
+- Gridsome
+
+📫 You could reach me on any of the links 
+
+⬅ See here
+
 <!--
 **edubasabe/edubasabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
