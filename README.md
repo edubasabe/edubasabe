@@ -2,9 +2,11 @@
 
 Welcome to my Github
 
-🔭 I’m currently working on Sky Airline ✈️
+🔭 I’m currently working on Cencosud
 
 I spend my spare time learning about:
+- Angular
+- Gatsby
 - Next.js
 - Strapi CMS
 - Apollo
