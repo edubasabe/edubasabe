@@ -5,13 +5,13 @@ Welcome to my Github
 🔭 I’m currently working on Cencosud
 
 I spend my spare time learning about:
-- Angular
-- Gatsby
-- Next.js
-- Strapi CMS
+- Typescript
 - Apollo
 - GraphQL
 - Gridsome
+- Gatsby
+- Next.js
+
 
 📫 You could reach me on any of the links 
 
