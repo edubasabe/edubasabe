@@ -5,13 +5,12 @@ Welcome to my Github
 🔭 I’m currently working on Nightfall.ai
 
 I spend my spare time learning about:
-- Typescript
-- Apollo
+- Next.js 13
+- Qwik
 - GraphQL
-- Gridsome
-- Gatsby
-- Next.js
-
+- Solid.js
+- Design Systems
+- Figma
 
 📫 You could reach me on any of the links 
 
