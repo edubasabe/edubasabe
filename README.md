@@ -5,12 +5,10 @@ Welcome to my Github
 🔭 I’m currently working on Perficient
 
 I spend my spare time learning about:
-- Next.js 13
+- Bun
 - Qwik
-- GraphQL
-- Solid.js
-- Design Systems
-- Figma
+- ElysiaJS
+- htmx
 
 📫 You could reach me on any of the links 
 
